@@ -1,0 +1,12 @@
+p{
+    color: red;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    color: purple;
+    font-weight: bold;
+    font-size: large;
+}
